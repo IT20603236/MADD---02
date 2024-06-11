@@ -1,0 +1,85 @@
+
+
+"welcome_message" = "Welcome to IssueTrack!";
+"my_issues" = "My Issues";
+"all_issues" = "All Issues";
+"logout" = "Logout";
+"c_logout" = "Confirm Logout";
+"c_logout_msg" = "Are you sure you want logout from this account?";
+"c_delete" = "Confirm Delete";
+"c_delete_msg" = "Are you sure you want to delete this issue?";
+"invalid_input" = "Invalid Input";
+"invalid_input_msg" = "One Or More Feilds are Empty Or Invalid";
+"username_no" = "Username Unavailable";
+"username_no_msg" = "This username is already taken by another user.";
+"login_failed" = "Login Failed";
+"login_failed_msg" = "User Name Or Password Is Incorrect";
+
+"login" = "Login";
+"register" = "Register";
+"cancel" = "Cancel";
+"save" = "Save";
+"update" = "Update";
+"delete" = "Delete";
+"ok" = "OK";
+
+
+"issue_details" = "Issue Details";
+"add_issue" = "Add Issue";
+"edit_issues" = "Edit Issue";
+
+"username" = "Username";
+"password" = "Password";
+"re_password" = "Re-Enter Password";
+
+"title" = "Title : ";
+"provice" = "Province :";
+"district" = "District :";
+"affected_area" = "AffectedArea";
+"description" = "Description";
+"expected_solution" = "Expected Solution";
+"date" = "Issue occurence date";
+
+"v_affected_area" = "AffectedArea :";
+"v_description" = "Description :";
+"v_expected_solution" = "Expected Solution :";
+"v_date" = "IIssue occurrence date :";
+"created_by" = "Created By :";
+
+/* Districts */
+"ampara" = "Ampara";
+"anuradhapura" = "Anuradhapura";
+"badulla" = "Badulla";
+"batticaloa" = "Batticaloa";
+"colombo" = "Colombo";
+"galle" = "Galle";
+"gampaha" = "Gampaha";
+"hambantota" = "Hambantota";
+"jaffna" = "Jaffna";
+"kalutara" = "Kalutara";
+"kandy" = "Kandy";
+"kegalle" = "Kegalle";
+"kilinochchi" = "Kilinochchi";
+"kurunegala" = "Kurunegala";
+"mannar" = "Mannar";
+"matale" = "Matale";
+"matara" = "Matara";
+"moneragala" = "Moneragala";
+"mullaitivu" = "Mullaitivu";
+"nuwaraeliya" = "Nuwara Eliya";
+"polonnaruwa" = "Polonnaruwa";
+"puttalam" = "Puttalam";
+"ratnapura" = "Ratnapura";
+"trincomalee" = "Trincomalee";
+"vavuniya" = "Vavuniya";
+
+/* Provinces */
+"eastern" = "Eastern";
+"northcentral" = "North Central";
+"northwestern" = "North Western";
+"northern" = "Northern";
+"sabaragamuwa" = "Sabaragamuwa";
+"southern" = "Southern";
+"uva" = "Uva";
+"western" = "Western";
+
